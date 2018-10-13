@@ -1,1 +1,16 @@
-k
+Go to this folder by going cd then ls find out whats next, then cd user, cd desktop, cd mygame then the ilikefrogz folder or just go there manaully and 
+right click on git bash and the code will take you there. 
+
+
+To push then type :
+
+git config --global user.email "jay123pandya@gmail.com"
+git config --global user.name "TriggeredPandya"
+
+
+and type git add . 
+
+then git commit -m " (NAME OF FOLDER)" 
+
+and then git push orgin master
+
